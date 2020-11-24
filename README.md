@@ -1,8 +1,12 @@
-# InterFatecs2020
-
 ![Logo](/imagens/logo.png)
 
-## Certificação
+### Problemas resolvidos
 
-![Certificação](/imagens/Certificado_183-1.pdf)
+[Acessibilidade](/Acessibilidade)
+
+[Chinelandia](/Chinelandia)
+
+[Escalonamento](/Escalonamento)
+
+### [Certificação](/imagens/Certificado_183-1.pdf)
 
